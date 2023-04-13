@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cookingappflutter-8c212",
+  "private_key_id": "889e7e80942ac4e46194234b6212c25a20870e0c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoeJy2uR/HKitX\nOzp8s6BUydj1QEwng0AK9xjK4ACRnEEZxmC9x+5JFXFKsRNzJ7o4tz7btSPv6jZF\neBcD/I3IhbYMn/CrQ+cLAbGpSe/4eZ3Wwx3BDibaFCSwSt5QuYnVfRL1Hmo3FBNw\nhYVgNMqGxn2TnzrMtxbD45popaKcolQWbz8lnw4IeF0Nyl6c/V7xbzCG9fe5Lp0Q\nTkTApPMZ3lj6gQ/9xNb49s0vQuHmuWkj3kbNrkhnP1iRbvnsaIuFWMYgrklvyQ5W\nif8ggPzlJQuTssRFmdTXRkITldIrOCgtf+XSIMaQuD9GsklQXe4rKyWn5KOUR4M3\n2ybN7+lJAgMBAAECggEAAu51WKMcQ9KOpkIONJsKDkukWjEkGhhpMf+md2pCLEZ2\nJgkLCCZdVbl5KxHtexadAY1juz45ybwPNXJ/YQcBHxT/i9TxIsPH1ovRH/dcxPu1\nxMXIo+I3iBorYMNuvqQZ20SFwszkj4CKjY3POjM09ncn+nx98Q+7Bk3Usx81twi/\nVkdIPWDEQVk59cC/HzsZRb7egogbYTsEyMfYwNRqLjBke12VovY1YXPW5OWOA9tB\nmGx4LRYi7mLOluM6oBA16+zuT0xc2hAY5/3/SWzr9p668lrvZwPe8go7qW/g4Eoo\nFLPkRRvXp3iFCRZnRB5H1j7h6Z5Fi5MVAXCVL8MgwQKBgQDZye07cY42WClbY9wR\nRXkNX0LFD+wBjFqci8lVN/KPb2KwDlZE7qsLzBeocLESev3t9HULxlGygM1PE/SK\nh0AJ5nRsVT8RUuso63S0gjHNSu5wnXlRldF6rxOSJEDO58g1oBeftxZitpvR0DeR\ntY0XDntUD50O6qidNV6I2Hr3CQKBgQDGB5A8vk59llQLWXY6tucQefszHOGEgjZa\nMHm0JT07iyaRmiFO4QDa00Bv7Dx3+YwuZes+GlhJyzqfSrqNL7X+NXGrQqButT/H\nmPTYtVQfHwnVSAVAv9QIzOArusr+rgiSa0qXbRf3+LbuA5VhQaCrcX5sjBZ+VSDx\nZcZOBRmwQQKBgQDH//+zzxxiG6QfIR0/XyVDem++uFhrM5EiodxKPg6qWgeu1fuz\nYdoCA3LWZGa4Kep3Uz8JiR4NZusj65duf7X3YYMY2VAJgLQj59ZMziMd++nr0TFQ\nEt1EZPL8Cf7aA1CArnwDWAder4N4slXVoXvn6IypLY113VjqxdACq4qAwQKBgAnw\nLTvvLQ8+cR9UsQtHTJdWF9Y719GHm2SxVBpHWChZ1miuPIex4RIaUfyL9Yjr3C4j\n7UdjmRSy/1EpNe2J/G8yjW7T3CtSK05ADeGmT/9z1lF+2MykE+cRKRrot/FKGKII\ngmjRD8fhEoUlZuTHn2GbQ4X9Dc/vQ8T5n5cgyGZBAoGBAIzCU+ZNJVgpJ/SOBcnF\nPUG4szSR9O+aKhFerFQmr/2H1KgAEu5+ckDy3dQnw3HJjSdnTjtfe1MzAir4P5m5\nucfyZ1mEdfNQ6QVTrwZWabVK7PFMoE24D+Bl0y593eLPvSZUPcE8F0s8qBuIaPZd\n0bzu17HT7/9QqxU/7xx+Dbbh\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fttkm@cookingappflutter-8c212.iam.gserviceaccount.com",
+  "client_id": "104673011454537148745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fttkm%40cookingappflutter-8c212.iam.gserviceaccount.com"
+}
